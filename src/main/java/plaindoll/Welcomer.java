@@ -17,4 +17,5 @@ public class Welcomer{
 	}
 	public String getHunterReply() {
     return "Greetings, mighty hunter!";
+	}
 }
